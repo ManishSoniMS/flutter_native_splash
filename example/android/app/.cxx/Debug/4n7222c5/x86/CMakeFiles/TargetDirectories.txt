@@ -1,0 +1,2 @@
+/Users/msoni/Downloads/workspace/flutter_native_splash/example/android/app/.cxx/Debug/4n7222c5/x86/CMakeFiles/edit_cache.dir
+/Users/msoni/Downloads/workspace/flutter_native_splash/example/android/app/.cxx/Debug/4n7222c5/x86/CMakeFiles/rebuild_cache.dir
